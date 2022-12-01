@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 225px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.inp{
+
+    width: 100%;
+    color: black;
+    background-color: lightgrey;
+}
+
+.clear{
+
+    width:100% ;
+    margin-top: 10px;
+    background-color: lightgray;
+
+}
+
+.btn{
+
+    width: 45px;
+    background-color: black;
+    border-radius: none;
+    margin: 2px;
+}
+
+.halfbtn{
+    width: 45%;
+ margin:1px;
+}
